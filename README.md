@@ -5,4 +5,7 @@ You'll see!
 
 ## Subheader
 
-I'm learning Git
+I'm learning Git.
+
+## Local Development
+1- go to index.html
